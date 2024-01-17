@@ -1,6 +1,6 @@
 # LaunchDarkly SDK for React Web - Example app
 
-This is a simple SPA demonstrating `launchdarkly-react-client-sdk`.
+This is a simple SPA demonstrating `launchdarkly-react-client-sdk`. It demonstrates two features flags - boolean and string.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,13 +8,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Follow these steps to run the example app:
 
-- In app.js, replace `clientSideID` value to your own Client-side ID. You can find
+- In App.js, replace `clientSideID` value to your own Client-side ID. You can find
   this in your LaunchDarkly portal under Account settings / Projects.
 
 - Create a boolean flag called `logoSwitch` in your project. Make sure you
   make the flag available to the client-side SDK.
 
-- Create a boolean flag called `learnSwitch` in your project. Make sure you
+- Create a string flag called `learnSwitch` in your project. Make sure you
   make the flag available to the client-side SDK.
 
 - You should now be able to start the app by running the following in the project directory:
