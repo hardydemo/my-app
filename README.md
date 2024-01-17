@@ -19,14 +19,11 @@ Follow these steps to run the example app:
 
 - You should now be able to start the app by running the following in the project directory:
 
-### `npm start`
+  ```sh
+  npm start
+  ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- Toggle the killswitch for `dev-test-flag` in the dashboard and the
+- Toggle the killswitch for `logoSwitch` and/or `learnSwitch` in the dashboard and the
   app should respond without a browser refresh.
-
-## Appendix
-
-You can learn more about this sample application at [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
