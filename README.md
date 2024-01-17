@@ -1,8 +1,6 @@
 # LaunchDarkly SDK for React Web - Example app
 
-This is a simple SPA demonstrating `launchdarkly-react-client-sdk`. It demonstrates two features flags - boolean and string.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple SPA demonstrating `launchdarkly-react-client-sdk`. It demonstrates two features flags - boolean and string. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Running the example
 
