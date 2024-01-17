@@ -25,3 +25,5 @@ Follow these steps to run the example app:
 
 - Toggle the killswitch for `logoSwitch` and/or `learnSwitch` in the dashboard and the
   app should respond without a browser refresh.
+
+  - The application should adapt its response based on the specific segment, whether it involves `react-users` or `nextjs-users`.

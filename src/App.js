@@ -32,7 +32,7 @@ function App() {
 }
 
 export default withLDProvider({
-  clientSideID: 'abc',
+  clientSideID: 'to_be_filled_in',
   reactOptions: {
     bootstrap: 'localStorage'
   }
